@@ -11,10 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
 //@RestController
-/**
- * @author chaoj
- * 测试controller类
- */
 @Controller
 public class HelloController {
 	protected static Logger logger = LoggerFactory.getLogger(HelloController.class);

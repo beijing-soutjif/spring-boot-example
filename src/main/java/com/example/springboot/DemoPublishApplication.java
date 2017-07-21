@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
- 
-/**
- * @author chaoj
- * 打包发表到tomcat
+
+/*
+ * 打包发表到tomcat8.0
  */
 @SpringBootApplication
 public class DemoPublishApplication extends SpringBootServletInitializer {
