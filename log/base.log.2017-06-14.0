@@ -1,0 +1,13 @@
+2017-06-14 16:48:53,680 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 3324 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-06-14 16:48:53,687 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-14 16:48:53,689 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-14 16:49:02,067 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 9.285 seconds (JVM running for 10.672)
+2017-06-14 16:49:23,816 DEBUG (HelloController.java:14)- 访问hello
+2017-06-14 16:50:40,622 DEBUG (HelloController.java:14)- 访问hello
+2017-06-14 16:50:51,240 DEBUG (HelloController.java:14)- 访问hello
+2017-06-14 16:51:15,647 DEBUG (HelloController.java:14)- 访问hello
+2017-06-14 16:52:14,978 DEBUG (HelloController.java:14)- 访问hello
+2017-06-14 16:53:06,873 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 3880 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-06-14 16:53:06,881 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-14 16:53:06,882 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-14 16:53:14,599 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 8.405 seconds (JVM running for 9.77)

@@ -1,0 +1,55 @@
+2017-07-11 16:05:27,806 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplicationTests on brucechao with PID 12052 (started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 16:05:27,824 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 16:05:27,826 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 16:05:36,284 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplicationTests in 9.799 seconds (JVM running for 13.24)
+2017-07-11 16:17:51,487 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplicationTests on brucechao with PID 21752 (started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 16:17:51,498 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 16:17:51,501 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 16:17:58,400 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplicationTests in 8.82 seconds (JVM running for 11.561)
+2017-07-11 17:13:32,744 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 2812 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:13:32,744 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:13:32,754 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:13:42,881 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 10.94 seconds (JVM running for 12.374)
+2017-07-11 17:16:28,997 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 22516 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:16:28,997 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:16:28,997 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:16:38,069 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 10.046 seconds (JVM running for 11.557)
+2017-07-11 17:17:54,667 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 8188 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:17:54,667 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:17:54,667 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:18:03,685 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 10.367 seconds (JVM running for 12.047)
+2017-07-11 17:20:08,627 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 2892 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:20:08,643 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:20:08,648 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:20:18,072 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 10.304 seconds (JVM running for 11.749)
+2017-07-11 17:20:59,944 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 10420 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:20:59,944 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:20:59,958 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:21:09,518 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 10.39 seconds (JVM running for 11.862)
+2017-07-11 17:22:48,650 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 5732 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:22:48,650 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:22:48,661 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:22:57,765 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 9.881 seconds (JVM running for 11.463)
+2017-07-11 17:23:37,883 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 10204 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:23:37,898 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:23:37,898 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:23:47,007 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 10.282 seconds (JVM running for 11.753)
+2017-07-11 17:24:46,902 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 5160 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:24:46,902 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:24:46,911 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 17:24:56,468 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 10.352 seconds (JVM running for 11.844)
+2017-07-11 17:26:12,201 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 5976 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 17:26:12,216 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 17:26:12,224 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 19:56:07,753 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on brucechao with PID 21432 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 19:56:07,768 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 19:56:07,768 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 19:56:17,493 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 11.018 seconds (JVM running for 12.95)
+2017-07-11 19:57:19,855 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 4712 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 19:57:19,870 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 19:57:19,870 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 19:57:31,617 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 12.792 seconds (JVM running for 14.461)
+2017-07-11 19:58:50,025 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 18392 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-11 19:58:50,025 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-11 19:58:50,040 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-11 19:58:59,104 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 9.827 seconds (JVM running for 11.333)
