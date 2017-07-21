@@ -6,7 +6,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /*
- * 打包发布到tomcat8.0.9
+ * 打包发布到tomcat8服务器
  */
 @SpringBootApplication
 public class DemoPublishApplication extends SpringBootServletInitializer {
