@@ -1,0 +1,4 @@
+2017-07-19 11:57:57,819 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleHelloworldApplication on brucechao with PID 10380 (F:\download\spring-boot-sample-helloworld\target\classes started by chaoj in F:\download\spring-boot-sample-helloworld)
+2017-07-19 11:57:57,849 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-19 11:57:57,851 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-19 11:58:11,245 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleHelloworldApplication in 14.758 seconds (JVM running for 16.904)
