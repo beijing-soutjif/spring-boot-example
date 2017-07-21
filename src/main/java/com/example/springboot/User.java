@@ -2,7 +2,7 @@ package com.example.springboot;
 
 /**
  * @author chaoj
- * user类
+ * 用户user实体类
  */
 public class User {
 
