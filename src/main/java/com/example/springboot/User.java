@@ -1,5 +1,9 @@
 package com.example.springboot;
 
+/**
+ * @author chaoj
+ * user类
+ */
 public class User {
 
 	private String name;
